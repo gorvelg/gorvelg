@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Static Badge](https://img.shields.io/badge/javascript-3B3C39?logo=javascript&logoColor=F7DF1E)
+
 <!--
 **gorvelg/gorvelg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
